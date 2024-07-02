@@ -1,2 +1,2 @@
 # depo1
- deniyorum
+visual basic .net freamwork ile hesap makinesi yapımı
