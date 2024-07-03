@@ -1,2 +1,2 @@
 # vb_calculator
-visual basic .net freamwork ile hesap makinesi
+calculator with visual basic .net framework
