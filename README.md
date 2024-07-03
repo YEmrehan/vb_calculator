@@ -1,2 +1,2 @@
 # vb_calculator
-calculator with visual basic .net framework
+A calculator program written in Visual Basic.
