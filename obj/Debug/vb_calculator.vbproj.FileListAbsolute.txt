@@ -1,0 +1,12 @@
+D:\github\vb_calculator\bin\Debug\vb_calculator.exe.config
+D:\github\vb_calculator\bin\Debug\vb_calculator.exe
+D:\github\vb_calculator\bin\Debug\vb_calculator.pdb
+D:\github\vb_calculator\bin\Debug\vb_calculator.xml
+D:\github\vb_calculator\obj\Debug\vb_calculator.vbproj.AssemblyReference.cache
+D:\github\vb_calculator\obj\Debug\vb_calculator.Form1.resources
+D:\github\vb_calculator\obj\Debug\vb_calculator.Resources.resources
+D:\github\vb_calculator\obj\Debug\vb_calculator.vbproj.GenerateResource.cache
+D:\github\vb_calculator\obj\Debug\vb_calculator.vbproj.CoreCompileInputs.cache
+D:\github\vb_calculator\obj\Debug\vb_calculator.exe
+D:\github\vb_calculator\obj\Debug\vb_calculator.xml
+D:\github\vb_calculator\obj\Debug\vb_calculator.pdb
